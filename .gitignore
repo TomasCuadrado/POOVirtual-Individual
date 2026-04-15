@@ -1,0 +1,9 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Compilados
+out/
+
+# Archivos de sistema
+.DS_Store
