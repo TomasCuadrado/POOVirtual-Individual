@@ -1,3 +1,5 @@
+package Ejercicios123;
+
 public class Televisor {
     private String marca;
     private String modelo;

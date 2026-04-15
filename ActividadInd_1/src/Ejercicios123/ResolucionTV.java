@@ -1,3 +1,5 @@
+package Ejercicios123;
+
 public enum ResolucionTV {
     HD("720p"),
     FULL_HD("1080p"),

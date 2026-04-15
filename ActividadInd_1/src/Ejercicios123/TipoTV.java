@@ -1,3 +1,5 @@
+package Ejercicios123;
+
 public enum TipoTV {
     P("Plasma"),
     L("LCD"),
